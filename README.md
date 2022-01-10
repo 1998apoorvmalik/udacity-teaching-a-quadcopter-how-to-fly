@@ -14,6 +14,14 @@ But it also comes at a price–the high complexity of controlling such an aircra
 
 The next step in this evolution is to enable quadcopters to autonomously achieve desired control behaviors such as takeoff and landing. You could design these controls with a classic approach (say, by implementing PID controllers). Or, you can use reinforcement learning to build agents that can learn these behaviors on their own. This is what you are going to do in this project!
 
+## My Solution
+
+Quadcopter flight trajectory
+![](drone_path.gif)
+
+Reward vs Time chart
+![](RewardVsTime.gif)
+
 ## Project Instructions
 
 1. Clone the repository and navigate to the downloaded folder.
